@@ -1,10 +1,7 @@
 # Processing - Creative Coding
 
-<div style="text-align: center;">
-  <video width="320" height="240" controls>
-    <source src="./BirthOfParticles/BirthOfParticles.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/2223385e-7254-47f7-8de4-242a200982c9" width="400" />  
 </div>
 
 This repository contains an interactive animation project created using Processing. The animation evolves dynamically based on various mathematical functions and real-time interactions.
