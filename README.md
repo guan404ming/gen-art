@@ -1,4 +1,4 @@
-# Processing - Creative Coding
+# Gen Art
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/2223385e-7254-47f7-8de4-242a200982c9" width="400" />  
